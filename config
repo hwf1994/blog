@@ -1,0 +1,13 @@
+# gitlab
+
+Host yolanda.hk
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_ed25519
+User hewenfei@yolanda.hk
+
+# github
+
+Host github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/github_ed25519
+User 1106783063@qq.com
