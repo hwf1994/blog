@@ -16,6 +16,7 @@ export default defineConfig({
       },
     ],
   ],
+  base: '/blog/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
