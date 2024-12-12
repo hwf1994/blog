@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.D1T-GOrs.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"custom.md","filePath":"custom.md"}'),a={name:"custom.md"};function s(c,r,n,m,p,_){return o(),e("div")}const f=t(a,[["render",s]]);export{i as __pageData,f as default};
